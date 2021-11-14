@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arshdeepsharma1
+- 👋 Hi, I’m Arshdeep Sharma
 - 👀 I’m interested in Programming and Digital Marketing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Digital Marketing and Python
